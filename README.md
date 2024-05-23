@@ -17,11 +17,11 @@ Codes will be released soon.
 ## Downloads
 - The prediction saliency maps of the proposed CACNet on the testing set
     
-    We released our prediction saliency maps of CACNet on [Google Drive](https://drive.google.com/drive/folders/1tUYgWPZvVn5k8xNZCSuv2lquNOSTzM7X?usp=sharing).
+    We released our prediction saliency maps of CACNet on [Google Drive](https://drive.google.com/drive/folders/19dw6B5fXgmStHrsFzz3-F6013wvHwSZ_?usp=sharing).
 
 ## Performance Evaluation
 
-We use the metrics implementation for the performance evaluation from https://github.com/DengPingFan/D3NetBenchmark
+We use the implementation of the metrics for the performance evaluation from https://github.com/DengPingFan/D3NetBenchmark
 
 
 ## Acknowledgement
