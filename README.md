@@ -27,8 +27,8 @@ We use the implementation of the evaluation metrics from https://github.com/Deng
 ## Acknowledgement
 
 We appreciate the following projects, thanks to their great work!
-https://github.com/DengPingFan/D3NetBenchmark
-https://github.com/TomorrowJW/TPCL_RGBDSOD
+https://github.com/DengPingFan/D3NetBenchmark,
+https://github.com/TomorrowJW/TPCL_RGBDSOD,
 https://github.com/lartpang/caver
 
 
