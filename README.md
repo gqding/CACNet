@@ -15,7 +15,7 @@ This repository includes Pytorch implementation for the following paper:
 Codes will be released soon.
 
 ## Downloads
-- The prediction saliency maps of the proposed CACNet on the testing set can be downloaded from [Google Drive](https://drive.google.com/drive/folders/19dw6B5fXgmStHrsFzz3-F6013wvHwSZ_?usp=sharing).
+- The predicted saliency maps of the proposed CACNet on the testing set can be downloaded from [Google Drive](https://drive.google.com/drive/folders/19dw6B5fXgmStHrsFzz3-F6013wvHwSZ_?usp=sharing).
 
 ## Performance Evaluation
 
