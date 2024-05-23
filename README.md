@@ -21,7 +21,7 @@ Codes will be released soon.
 
 ## Performance Evaluation
 
-We use the implementation of the evaluation metrics from https://github.com/DengPingFan/D3NetBenchmark
+We use the metrics implementation for the performance evaluation from https://github.com/DengPingFan/D3NetBenchmark
 
 
 ## Acknowledgement
